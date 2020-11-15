@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Amelia Collier",
+    "Gender": "Male",
+    "DateCreated": "2017-07-22",
+    "Addresses": [
+      {
+        "Street": "Senator Street, Hamilton, Lagos, 162",
+        "PostCode": "223345",
+        "HouseNumber": 23
+      }
+    ],
+    "Orders": [
+      {
+        "OrderDate": "2017-01-05",
+        "Amount": 3000
+      }
+    ]
+  },
+  {
+    "Name": "Akamu John",
+    "Gender": "Female",
+    "DateCreated": "2017-07-22",
+    "Addresses": [
+      {
+        "Street": "Senator Street, Hamilton, Lagos, 162",
+        "PostCode": "223345",
+        "HouseNumber": 23
+      }
+    ],
+    "Orders": [
+      {
+        "OrderDate": "2017-01-05",
+        "Amount": 3000
+      }
+    ]
+  },
+  {
+    "Name": "Gloria Ezedu",
+    "Gender": "Male",
+    "DateCreated": "2018-07-22",
+    "Addresses": [
+      {
+        "Street": "Sambala Street, Hamilton, Lagos, 162",
+        "PostCode": "223377",
+        "HouseNumber": 60
+      }
+    ],
+    "Orders": [
+      {
+        "OrderDate": "2019-01-05",
+        "Amount": 6000
+      }
+    ]
+  }
+ ]
